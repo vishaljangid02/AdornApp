@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "459980627332",
+    "firebase_url": "https://adorn-80e73.firebaseio.com",
+    "project_id": "adorn-80e73",
+    "storage_bucket": "adorn-80e73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459980627332:android:773876fd1c0ace97",
+        "android_client_info": {
+          "package_name": "com.example.vishal.Adorn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459980627332-vol8n1birh1drb73spe731mg1ks5r01h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vishal.Adorn",
+            "certificate_hash": "16a6d1ff294e1987d19f37c661bf3f7f93f53636"
+          }
+        },
+        {
+          "client_id": "459980627332-flsrpp9dg3vkpuutm7a08hvlv9ft3k2k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "459980627332-flsrpp9dg3vkpuutm7a08hvlv9ft3k2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTrwhKVwk8O6ycr4QuT5-hrRDlpUOXjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459980627332-flsrpp9dg3vkpuutm7a08hvlv9ft3k2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
